@@ -3,7 +3,7 @@
 Routing z BGP 10 / bez BGP 5 (PT nie wspiera IBGP wiec redystrybucja z IGP do EBGP, wiec EBGP tylko miedzy Routerem 9 i Routerem 8   
 Redystrybucja 5 (z wersja BGP 10 )
 ACL for WWW,SMTP 5
-Mail server 3
+
 
 
 2 done
@@ -14,4 +14,5 @@ Etherchannel 5
 Ekstra fiber links w ISP 2
 NAT 10
 DHCP 10
+Mail server 3
 
